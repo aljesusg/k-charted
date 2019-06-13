@@ -48,6 +48,7 @@
   },
   "scripts": {
     "build": "tsc -p .",
+    "build:storybook": "build-storybook -c storybook -o .out",
     "lint": "tslint --project ./tsconfig.json",
     "test": "jest",
     "storybook": "start-storybook"

@@ -13,3 +13,7 @@ _output
 
 # IntelliJ
 .idea/
+
+# Storybook
+
+web/react/.out
